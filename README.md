@@ -1,9 +1,10 @@
 
 <h1>Image Search App</h1>
-__Description__
+**Description**
+
 This is a simple image search application built using HTML, CSS, and JavaScript. It allows users to search for images using keywords and displays the results in a visually appealing format.
 
-Features
+**Features**
 Search: Users can enter keywords in the search bar to find images related to their query.
 Display: Search results are displayed in a grid layout, with each image accompanied by relevant information.
 Responsive: The application is designed to work seamlessly on desktop and mobile devices.

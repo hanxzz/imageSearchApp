@@ -18,5 +18,6 @@ To use the image search app, simply open the index.html file in your web browser
 You can test the site [here](https://imagesearchhk.netlify.app).
 
 **Development**
-If you wish to contribute to the development of this project, feel free to fork the repository and submit a pull request with your changes.
+If you wish to contribute to the development of this project, feel free to fork the repository and submit a pull request with your changes!
+
 
